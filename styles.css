@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #ABCDEF
+}
+
+#SPECIAL {
+    color: #654321
+}
+
+h4.S {
+    color: rgb(255, 150, 0);
+}
+
+h4 {
+    color: rgb(255, 0, 255)
+}
+
+ol li {
+    color: green;
+}
+
+li {
+    color: blue;
+}
