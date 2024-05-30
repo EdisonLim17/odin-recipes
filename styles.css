@@ -1,19 +1,24 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    width: 900px;
+    display: block;
 }
 
 h1 {
     color: red;
-    font-weight: 800;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
 }
 
 h3 {
-    color: #ABCDEF
+    color: #00ff00;
 }
 
 #SPECIAL {
-    color: #654321
+    color: #654321;
 }
 
 h4.S {
@@ -21,13 +26,26 @@ h4.S {
 }
 
 h4 {
-    color: rgb(255, 0, 255)
+    color: rgb(255, 0, 255);
+}
+
+a {
+    color: yellow;
 }
 
 ol li {
-    color: green;
+    color: rgb(0, 255, 255);
 }
 
 li {
-    color: blue;
+    color: rgb(255, 255, 0);
+}
+
+p {
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
